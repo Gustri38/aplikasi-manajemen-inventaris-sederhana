@@ -189,7 +189,8 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan aplikasi secara l
 
 ## Kontributor
 
--   Gustri Dede Putra (https://github.com/Gustri38)(https://www.linkedin.com/in/gustri-dede-putra-611178141)
+-   Gustri Dede Putra (https://github.com/Gustri38)
+-   My linkedin (https://www.linkedin.com/in/gustri-dede-putra-611178141)
 
 ## Lisensi
 
