@@ -47,14 +47,23 @@ Struktur direktori proyek diorganisir untuk memisahkan logika aplikasi dari file
 
 inventaris_app/
 ├── app/                  # Logika inti aplikasi, actions, dll.
+
 ├── config/               # File konfigurasi, terutama database.
+
 ├── public/               # File yang dapat diakses publik (index.php, login.php, css/, js/)
+
 │   ├── css/              # File CSS untuk styling
+
 │   │   └── style.css
+
 │   ├── index.php         # Halaman utama (daftar inventaris)
+
 │   ├── login.php         # Halaman login
+
 │   ├── create.php        # Halaman tambah produk
+
 │   └── edit.php          # Halaman edit produk
+
 ├── indeks.php
 
 ## Diagram Perancangan Sistem
