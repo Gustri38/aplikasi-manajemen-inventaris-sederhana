@@ -111,10 +111,9 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan aplikasi secara l
 
 1.  **Clone Repositori:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YourGitHubUsername]/[YourRepoName].git
-    cd [YourRepoName]
+    git clone https://github.com/Gustri38/aplikasi-manajemen-inventaris-sederhana.git
+    cd aplikasi-manajemen-inventaris-sederhana
     ```
-    *(Ganti `[YourGitHubUsername]` dan `[YourRepoName]` dengan detail repositori Anda)*
 
 2.  **Konfigurasi Web Server (Laragon/XAMPP/MAMP):**
     -   Jika menggunakan **Laragon**:
