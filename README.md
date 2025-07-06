@@ -45,23 +45,27 @@ Aplikasi ini dibangun menggunakan kombinasi teknologi web *open-source*:
 Struktur direktori proyek diorganisir untuk memisahkan logika aplikasi dari file yang dapat diakses publik:
 
 inventaris_app/
-├── app/                  # Logika inti aplikasi, actions, dll.
+├── app/ 
 
-├── config/               # File konfigurasi, terutama database.
+├── config/
 
-├── public/               # File yang dapat diakses publik (index.php, login.php, css/, js/)
+├── public/
 
-│   ├── css/              # File CSS untuk styling
+│   ├── css/
 
 │   │   └── style.css
 
-│   ├── index.php         # Halaman utama (daftar inventaris)
+│   ├── index.php
 
-│   ├── login.php         # Halaman login
+│   ├── login.php
 
-│   ├── create.php        # Halaman tambah produk
+│   ├── create.php
 
-│   └── edit.php          # Halaman edit produk
+│   ├── logout.php
+
+│   ├── register_user.php
+
+│   └── edit.php
 
 ├── indeks.php
 
