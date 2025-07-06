@@ -71,15 +71,13 @@ inventaris_app/
 
 Menggambarkan struktur database aplikasi.
 
-![ERD Aplikasi Inventaris](https://raw.githubusercontent.com/[YourGitHubUsername]/[YourRepoName]/main/docs/erd.png)
-*(Ganti URL gambar di atas dengan tautan langsung ke gambar ERD Anda di repositori GitHub, contoh: `https://raw.githubusercontent.com/username/repo/main/docs/erd.png`)*
+![ERD Aplikasi Inventaris](https://github.com/Gustri38/aplikasi-manajemen-inventaris-sederhana/blob/main/docs/ERD.png)
 
 ### Use Case Diagram
 
 Memodelkan fungsionalitas sistem dari sudut pandang pengguna.
 
-![Use Case Diagram Aplikasi Inventaris](https://raw.githubusercontent.com/[YourGitHubUsername]/[YourRepoName]/main/docs/use_case.png)
-*(Ganti URL gambar di atas dengan tautan langsung ke gambar Use Case Diagram Anda di repositori GitHub)*
+![Use Case Diagram Aplikasi Inventaris](https://github.com/Gustri38/aplikasi-manajemen-inventaris-sederhana/blob/main/docs/Use%20Case.png)
 
 ### Activity Diagram
 
@@ -87,13 +85,11 @@ Menggambarkan alur kerja langkah demi langkah untuk fungsi kunci.
 
 #### Alur Aktivitas Login
 
-![Activity Diagram Login](https://raw.githubusercontent.com/[YourGitHubUsername]/[YourRepoName]/main/docs/activity_login.png)
-*(Ganti URL gambar di atas dengan tautan langsung ke gambar Activity Diagram Login Anda di repositori GitHub)*
+![Activity Diagram Login](https://github.com/Gustri38/aplikasi-manajemen-inventaris-sederhana/blob/main/docs/Activity%201.png)
 
 #### Alur Aktivitas Tambah Produk (Oleh Admin)
 
-![Activity Diagram Tambah Produk](https://raw.githubusercontent.com/[YourGitHubUsername]/[YourRepoName]/main/docs/activity_add_product.png)
-*(Ganti URL gambar di atas dengan tautan langsung ke gambar Activity Diagram Tambah Produk Anda di repositori GitHub)*
+![Activity Diagram Tambah Produk](https://github.com/Gustri38/aplikasi-manajemen-inventaris-sederhana/blob/main/docs/Activity%202.png)
 
 ## Persyaratan Sistem
 
