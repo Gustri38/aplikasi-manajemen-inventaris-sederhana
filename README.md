@@ -45,6 +45,7 @@ Aplikasi ini dibangun menggunakan kombinasi teknologi web *open-source*:
 Struktur direktori proyek diorganisir untuk memisahkan logika aplikasi dari file yang dapat diakses publik:
 
 inventaris_app/
+
 ├── app/ 
 
 ├── config/
